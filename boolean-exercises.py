@@ -24,7 +24,7 @@ val9 = bool(1) #
 val10 = bool(val3) #
 val11 = bool([val5]) #
 
-#---------- Relationl and logical operators ------------#
+#---------- Relational and logical operators ------------#
 
 
 # Pratical Question 2:
@@ -82,7 +82,7 @@ def unCoolFunc():
         return 1
 
 
-# Theory Question 4: What is the output from the following function
+# Theory Question 4: What is the output from the following trenary operator
 
 p = 2
 val17 = "odd" if p%2!=0 else "even"
